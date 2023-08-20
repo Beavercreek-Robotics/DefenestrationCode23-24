@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "23-24Defenestration",
+		"slot": 1,
+		"description": "Simple drive base config\n",
+		"platform": "V5",
+		"creationDate": "Sun, 20 Aug 2023 19:19:41 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20220726_10_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.4.2",
+		"json": 1
+	}
+}
